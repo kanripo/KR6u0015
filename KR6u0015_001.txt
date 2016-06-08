@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:32.281508
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:01
 #+TITLE: 普賢菩薩說證明經
 #+PROPERTY: CBETA_ID T85n2879
 #+PROPERTY: ID KR6u0015
@@ -202,7 +202,7 @@ No.2879¶
 獄。從闇至闇輪轉五道無有出期。¶
 ¶
 
-2證香火本因經
+* 2證香火本因經
 :PROPERTIES:
 :head: 佛說證香火本因經第二
 :END:
